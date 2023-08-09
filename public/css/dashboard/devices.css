@@ -1,0 +1,69 @@
+
+.model-btn{
+    padding: 6px 15px 6px 15px;
+    border-radius: 6px !important;
+    background-color: rgb(202, 82, 108);
+    color: white;
+    font-weight: 500 !important;
+    box-shadow: none;
+    border:none;
+    font-size: 15px;
+
+}
+
+.model-btn:hover{
+    background-color: rgb(175, 55, 55);
+}
+
+.tabletitle{
+    font-size: 20px !important;
+
+}
+.bc{
+    text-align: left !important;
+}
+
+.actbtn{
+    border: 3px solid rgb(173, 173, 180);
+
+}
+.actbtn:hover{
+    background-color: rgb(106, 106, 175);
+    color: white;
+}
+.blocked td{
+    background-color: rgb(230, 114, 114) !important;
+    color: white !important;
+}
+
+.stat{
+    display: flex;
+    justify-content: center;
+}
+
+.brw{
+    background-color: rgb(214, 166, 93);
+    color: rgb(255, 252, 252);
+    border-radius: 3px;
+    padding: 4px 15px 4px 15px;
+    
+    
+}
+
+.rtn{
+    background-color: rgb(58, 175, 64);;
+    color: rgb(247, 250, 247);
+    border-radius: 3px;
+    padding: 4px 15px 4px 15px;
+ 
+}
+
+.filters{
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.searchbox{
+    border: 1px solid gray !important;
+    padding: 2px 5px;
+}

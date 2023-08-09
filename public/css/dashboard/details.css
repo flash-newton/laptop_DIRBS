@@ -1,0 +1,52 @@
+.brw{
+    background-color: rgb(214, 166, 93);
+    color: rgb(255, 252, 252);
+    border-radius: 3px;
+    padding: 2px 15px 2px 15px;
+    
+    
+}
+
+.rtn{
+    background-color: rgb(58, 175, 64);;
+    color: rgb(247, 250, 247);
+    border-radius: 3px;
+    padding: 2px 15px 2px 15px;
+ 
+}
+
+.bcbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.brwstat{
+    background-color: rgb(78, 70, 116);;
+    color: rgb(247, 250, 247);
+    border-radius: 3px;
+    padding: 4px 10px 4px 10px; 
+    width: fit-content;
+}
+.rtnstat{
+    background-color: rgb(123, 122, 124);;
+    color: rgb(247, 250, 247);
+    border-radius: 3px;
+    padding: 4px 10px 4px 10px; 
+    width: fit-content;
+}
+.nm{
+    font-weight: bold;
+    color: rgb(101, 101, 107) !important;
+}
+.tabletitle{
+    background-color: rgb(77, 87, 107);
+    color: white !important;
+    padding: 2px 2px 1px 9px;
+}
+.btn-sm{
+    padding: 1px 8px 1px 8px;
+    margin-right: 5px;
+    margin-top: 2px;
+}

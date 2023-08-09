@@ -1,0 +1,43 @@
+.bodyclass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#app{
+    background-image: url(/img/18032.jpg);
+}
+
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.card-body{
+    padding: 20px;
+
+}
+
+.card-header{
+    background-color: rgb(36, 36, 116);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.col-form-label{
+    font-weight: 600;
+}
+
+.in{
+    border: 2px solid rgb(90, 86, 86);
+}
+
+.btnCustom{
+    width: 100%;
+    background-color: rgb(39, 39, 66);
+}
+.btn-link{
+    color: rgb(73, 72, 72);
+    font-size: 13px;
+}

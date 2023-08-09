@@ -1,0 +1,50 @@
+
+
+img{
+    width:70% ;
+}
+
+.cardbtn{
+    min-height: 250px;
+    cursor: pointer;
+}
+.btnbody{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    border: solid 3px rgb(148, 149, 151);
+    border-radius: 5px;
+
+
+}
+.labl{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(96, 125, 204) ;
+    margin-left: 10px;
+
+}
+.stat{
+    display: flex;
+    justify-content: center;
+}
+
+.brw{
+    background-color: rgb(214, 166, 93);
+    color: rgb(255, 252, 252);
+    border-radius: 3px;
+    padding: 4px 15px 4px 15px;
+    
+    
+}
+
+.rtn{
+    background-color: rgb(58, 175, 64);;
+    color: rgb(247, 250, 247);
+    border-radius: 3px;
+    padding: 4px 15px 4px 15px;
+ 
+}

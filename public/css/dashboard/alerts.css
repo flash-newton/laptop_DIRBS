@@ -1,0 +1,13 @@
+.alert-danger{
+    background-color: rgb(196, 75, 75) !important;
+    color: white !important;
+    padding-top: 5px  !important;
+    padding-bottom: 5px !important;
+}
+
+.alert-success{
+    background-color: rgb(31, 160, 48) !important;
+    color: white !important;
+    padding-top: 5px  !important;
+    padding-bottom: 5px !important;
+}

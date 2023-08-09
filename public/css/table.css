@@ -1,0 +1,12 @@
+
+thead th{
+    background-color: rgb(78, 86, 122) !important;
+    color: white !important;
+
+}
+
+td, th{
+    text-align: center !important;
+    font-weight: 600;
+
+}
